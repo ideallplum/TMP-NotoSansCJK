@@ -2,10 +2,18 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-/[Aa]ssets/[Sc]enes/
+/[Aa]ssets/UniversalRenderPipelineGlobalSettings.asset
+/[Aa]ssets/UniversalRenderPipelineGlobalSettings.asset.meta
+/[Aa]ssets/[Rr]eadme.asset
+/[Aa]ssets/[Rr]eadme.asset.meta
+/[Aa]ssets/[Ss]cenes/
+/[Aa]ssets/[Ss]cenes.meta
 /[Aa]ssets/[Ss]ettings/
+/[Aa]ssets/[Ss]ettings.meta
 /[Aa]ssets/[Tt]utorial[Ii]nfo/
+/[Aa]ssets/[Tt]utorial[Ii]nfo.meta
 /[Aa]ssets/[Tt]ext[Mm]esh [Pp]ro/
+/[Aa]ssets/[Tt]ext[Mm]esh [Pp]ro.meta
 
 /[Ll]ibrary/
 /[Pp]ackages/
