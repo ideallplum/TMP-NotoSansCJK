@@ -3,12 +3,16 @@
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
 /[Ll]ibrary/
+/[Pp]ackages/
+/[Pp]roject[Ss]ettings/
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+
+.vsconfig
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
