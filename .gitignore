@@ -2,6 +2,11 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
+/[Aa]ssets/[Sc]enes/
+/[Aa]ssets/[Ss]ettings/
+/[Aa]ssets/[Tt]utorial[Ii]nfo/
+/[Aa]ssets/[Tt]ext[Mm]esh [Pp]ro/
+
 /[Ll]ibrary/
 /[Pp]ackages/
 /[Pp]roject[Ss]ettings/
